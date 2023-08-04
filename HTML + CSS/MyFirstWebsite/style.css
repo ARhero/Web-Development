@@ -1,0 +1,16 @@
+body{
+	background-image: url(bg.jpg);
+	background-size: cover;
+
+}
+
+h2{
+	color: #ffaabb;
+}
+p{
+	line-height: 20px;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 80%;
+	font-family: 'Borel', cursive;
+}
